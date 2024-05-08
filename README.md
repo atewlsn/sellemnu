@@ -1,8 +1,8 @@
 
 # ate-sellmenu
-# qb-core (Latest) (Only for qb-core based servers)
-# qb-input (Optional) (Only for qb-core based servers)
-# qb-menu (Optional) (Only for qb-core based servers)
+# qb-core  (Only for qb-core based servers)
+# qb-input (Only for qb-core based servers)
+# qb-menu  (Only for qb-core based servers)
 
 
 ![image](https://github.com/atewlsn/sellemnu/assets/109057954/a469f86a-15db-4bfb-a646-3f300c478900)
